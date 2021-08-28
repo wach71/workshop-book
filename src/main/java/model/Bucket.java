@@ -1,6 +1,6 @@
 package model;
 
-public class Customer {
+public class Bucket {
     private int id;
     private String description;
     private int bookCount;
