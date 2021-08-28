@@ -1,6 +1,6 @@
 package model;
 
-public class Bucket {
+public class Basket {
     private int id;
     private String description;
     private int bookCount;
